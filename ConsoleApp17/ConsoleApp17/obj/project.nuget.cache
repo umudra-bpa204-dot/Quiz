@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bxc0AqL1meLK7EgL+bsXOhWHplzDpEKGCiAlvFVcM0qHJwgNejt9vz2IcPTmUfKVJMpiKXB9JorND3RKcZfAww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\I novbe\\source\\repos\\ConsoleApp17\\ConsoleApp17\\ConsoleApp17.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I novbe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\I novbe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
